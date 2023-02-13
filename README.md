@@ -1,16 +1,35 @@
-# day24
 
-A new Flutter project.
+## Job App UI 
 
-## Getting Started
+## Used:
+->Model Class 
+->SingleChildScrollView
+->Scaffold
+->Column
+->ListTile
+->Row
+->CircleAvatar
+->ListView
+->Appbar
+->Icon
+->Expanded
+->Textstyle
+->Clicpreact
+->Mediaquery
+->Container
+->BoxDecoration
+->Borderradius
+->BottomSheet Nav Bar
 
-This project is a starting point for a Flutter application.
+## UI Design:
 
-A few resources to get you started if this is your first Flutter project:
+## UI Video:
+https://user-images.githubusercontent.com/48874418/218404995-186eb87e-aa53-40ef-9d0f-caefb972d7f4.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
